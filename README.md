@@ -1,1 +1,3 @@
-# SkillVerseDB
+This project, part of the Database Systems course for the 9th semester in 2023 at the Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki, focuses on the design and implementation of a relational database. It showcases the collaborative effort of a three-member team to conceptualize, design, and realize a relational database system tailored to a unique application domain.
+
+SkillVerse is a database platform linking individuals or teams to open-source projects based on their skills and expertise and making it easier for companies to find talented people based on their rating and passion and to offer jobs and organise events.
